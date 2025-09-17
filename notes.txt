@@ -1,1 +1,2 @@
 This is my DevOps practice notes.
+Updated notes with new feature info.
